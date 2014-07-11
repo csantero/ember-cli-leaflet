@@ -1,0 +1,28 @@
+{
+  "name": "ember-cli-leaflet",
+  "version": "0.0.1",
+  "description": "Adds support for the leaflet.js mapping library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ember-addon",
+    "ember",
+    "ember.js",
+    "ember-cli",
+    "leaflet",
+    "leaflet.js"
+  ],
+  "author": "Chris Santero",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/csantero/ember-cli-leaflet.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "broccoli-merge-trees": "^0.1.4",
+    "broccoli-static-compiler": "^0.1.4"
+  }
+}
