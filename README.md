@@ -1,9 +1,8 @@
 ember-cli-leaflet
 =======================
+_DEPRECATION WARNING_: This addon is deprecated in favor of [ember-cli-ember-leaflet](https://github.com/csantero/ember-cli-ember-leaflet).
 
 This is an addon for [ember-cli](http://iamstef.net/ember-cli/) that adds support for the [Leaflet](https://github.com/Leaflet/Leaflet) mapping library.
-
-_WARNING_: This addon requires a version of `ember-cli` greater than 0.0.39.
 
 ##Usage
 
